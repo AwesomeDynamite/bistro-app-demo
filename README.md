@@ -1,8 +1,14 @@
-# React + Vite
+# Bistro App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite web app I built to help manage food orders for my school's bistro.
 
-Currently, two official plugins are available:
+## What it does
+- Displays the bistro's menu with an interactive pop-out menu design
+- Lets students browse and select items to order
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech stack
+- React
+- Vite
+- JavaScript, CSS, HTML
+
+## Run it locally
